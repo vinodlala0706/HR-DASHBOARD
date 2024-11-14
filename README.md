@@ -1,1 +1,1 @@
-# HR-DASHBOARD (	HR-Analytics Dashboard in Tableau )
+# HR-DASHBOARD (HR_DashBoard.jpg)
