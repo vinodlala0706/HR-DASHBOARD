@@ -1,1 +1,1 @@
-# HR-DASHBOARD (HR_DashBoard.jpg)
+![HR-DASHBOARD] (HR_DashBoard.jpg)
